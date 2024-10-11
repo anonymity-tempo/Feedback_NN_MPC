@@ -4,8 +4,6 @@
 
 This repository contains the code related to the **robotics application** of proposed feedback neural network. The aerodynamic effects are firstly learned using a neural ODE augmented model, and then embedded into a MPC controller with multi-step prediction method that utilizes feedbacks for higher precision accuracy and control performance.
 
-### 1. Files introduction
-
 | Directory                 | Introduction                                                 | Details                                                      |
 | ------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Folder: **aux_module**    | Modules required for visualization and polynomial trajectory generation. | ---                                                          |
